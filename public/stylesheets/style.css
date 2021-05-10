@@ -1,0 +1,14 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+article, aside, details, figcaption, figure, footer,header,
+hgroup, menu, nav, section { display: block; }
+a {
+  color: #00B7FF;
+}
+button {
+  width: 100px;
+  height: 20px;
+}
